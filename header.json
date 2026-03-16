@@ -1,5 +1,5 @@
 {
-"name" : "ここに難易度表の名前",
-"symbol" : "ここにシンボル",
-"data_url" : "ここにJSONのURL"
+"name" : "腕押しBPM帯別難易度表",
+"symbol" : "腕BPM",
+"data_url" : "https://script.google.com/macros/s/AKfycbzhYHDssn5p-FQc71vW6Xgv2lk_oaed3ejPsdXbiQBo15x_Ceh5UiPcXuM6ifMlMXpO/exec"
 }
